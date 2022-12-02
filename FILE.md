@@ -1,7 +1,16 @@
+-------------- master ---------------
+<br>
+git init
+<br>
+touch FILE.md
+<br>
 git add FILE.md
 <br>
-git commit -m "Commit 2"
+git status
 <br>
-git log --graph
+git commit -m "Commit 0"
 <br>
-git branch bug-fix 6bca515
+git add FILE.md
+<br>
+git commit -m "Commit 1"
+<br>
