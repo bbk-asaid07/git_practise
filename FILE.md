@@ -60,7 +60,7 @@ git branch bug-fix-experimental 0d56e9c
 <br>
 git checkout bug-fix-experimental
 <br>
--------------- bug-fix-experimental -------------
+-------------- bug-fix-experimental --------------
 <br>
 git add FILE.md
 <br>
